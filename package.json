@@ -1,0 +1,27 @@
+{
+  "name": "cermati-nodejs",
+  "version": "1.0.0",
+  "description": "Solution code for cermati.com programming back-end test",
+  "main": "solution.js",
+  "scripts": {
+    "test": "node solution.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azharkurnia/Cermati-NodeJS.git"
+  },
+  "keywords": [
+    "cermati"
+  ],
+  "author": "Azhar Kurnia <azharkurnia19@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azharkurnia/Cermati-NodeJS/issues"
+  },
+  "homepage": "https://github.com/azharkurnia/Cermati-NodeJS#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0"
+  }
+}
